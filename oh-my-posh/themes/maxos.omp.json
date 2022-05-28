@@ -34,13 +34,11 @@
           "foreground": "#fffef9",
           "powerline_symbol": "\ue0b0",
           "properties": {
-            "folder_icon": " \uf115 ",
-            "folder_separator_icon": " \ue0b1 ",
             "home_icon": " \uf7db ",
-            "style": "agnoster"
+            "style": "full"
           },
           "style": "powerline",
-          "template": "{{ path .Path .Location }} ",
+          "template": " {{ path .Path .Location }} ",
           "type": "path"
         },
         {
