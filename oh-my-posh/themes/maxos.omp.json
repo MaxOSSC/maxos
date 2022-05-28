@@ -34,7 +34,7 @@
           "foreground": "#fffef9",
           "powerline_symbol": "\ue0b0",
           "properties": {
-            "home_icon": " \uf7db ",
+            "home_icon": "\uf7db ",
             "style": "full"
           },
           "style": "powerline",
