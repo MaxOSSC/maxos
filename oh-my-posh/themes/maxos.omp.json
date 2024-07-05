@@ -132,6 +132,7 @@
   ],
   "console_title_template": "{{if .Root}}\u26a1 {{end}}{{.Folder}}",
   "final_space": true,
+  "auto_upgrade": true,
   "osc99": true,
   "version": 2
 }
