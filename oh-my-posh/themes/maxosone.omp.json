@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "$schema": "https://raw.kkgithub.com/MaxOSSC/maxos/main/oh-my-posh/themes/maxosone.omp.json",
   "blocks": [
     {
       "alignment": "right",
